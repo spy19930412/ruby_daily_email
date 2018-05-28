@@ -45,7 +45,7 @@ class MailReporter
       <body>
       <br/>
       <div class="container bg-white">
-      <img src="screenshot.png" style="width:auto;height:auto;max-width:100%;max-height:100%;">
+      <img src="https://s1.ax1x.com/2018/05/28/C4Dz6O.png" alt="C4Dz6O.png" style="width:auto;height:auto;max-width:100%;max-height:100%;">
       <center><a href="http://pekdev150.dev.fwmrm.net:3000/#/">View More Details</a></center>
       <br/>
       </div>
